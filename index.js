@@ -14,4 +14,5 @@ function whipser(string) {
   return string.toLowerCase()
 }
 
+function logWhisperString(string)
 
