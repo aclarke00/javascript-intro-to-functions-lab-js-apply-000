@@ -11,5 +11,5 @@ function logShout(string) {
 }
 
 function whipser(string) {
-  
+  return string.toLowerCase()
 }
